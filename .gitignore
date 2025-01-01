@@ -13,3 +13,5 @@ _*
 *~
 build/
 !.gitignore
+!.gitmodules
+!riscv-tests-am
