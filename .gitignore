@@ -14,4 +14,5 @@ _*
 build/
 !.gitignore
 !.gitmodules
+!riscv-arch-test-am
 !riscv-tests-am
